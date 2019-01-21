@@ -7,7 +7,6 @@ function dwarfRollCall(dwarves){
  }
 
 function summonCaptainPlanet(planeteerCalls){
-<<<<<<< HEAD
 var newarr = planeteerCalls.map(x => x.toUpperCase() + "!");
 return newarr;
 =======
