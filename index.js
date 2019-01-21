@@ -8,7 +8,6 @@ function dwarfRollCall(dwarves){
 
 function summonCaptainPlanet(planeteerCalls){
 var newarr = planeteerCalls.map(x => x.toUpperCase() + "!");
-return newarr;
 }
 
 function longPlaneteerCalls(words) {
